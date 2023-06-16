@@ -1,0 +1,17 @@
+C:\Users\Simon\source\repos\Backup\Backup\bin\Debug\net6.0-windows\Backup.exe
+C:\Users\Simon\source\repos\Backup\Backup\bin\Debug\net6.0-windows\Backup.deps.json
+C:\Users\Simon\source\repos\Backup\Backup\bin\Debug\net6.0-windows\Backup.runtimeconfig.json
+C:\Users\Simon\source\repos\Backup\Backup\bin\Debug\net6.0-windows\Backup.dll
+C:\Users\Simon\source\repos\Backup\Backup\bin\Debug\net6.0-windows\Backup.pdb
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.csproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.Form1.resources
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.AssemblyInfo.cs
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.dll
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\refint\Backup.dll
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.pdb
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\Backup.genruntimeconfig.cache
+C:\Users\Simon\source\repos\Backup\Backup\obj\Debug\net6.0-windows\ref\Backup.dll
